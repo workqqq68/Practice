@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/usha/CLionProjects/sniffer/main.cpp
+cstdio
+-
+pcap.h
+-
+netinet/if_ether.h
+-
+netinet/in.h
+-
+netinet/ip.h
+-
+netinet/udp.h
+-
+arpa/inet.h
+-
+net/if_arp.h
+-
+

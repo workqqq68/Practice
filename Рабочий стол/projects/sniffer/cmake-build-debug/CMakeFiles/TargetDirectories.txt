@@ -1,0 +1,3 @@
+/home/usha/CLionProjects/sniffer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/usha/CLionProjects/sniffer/cmake-build-debug/CMakeFiles/sniffer.dir
+/home/usha/CLionProjects/sniffer/cmake-build-debug/CMakeFiles/edit_cache.dir
